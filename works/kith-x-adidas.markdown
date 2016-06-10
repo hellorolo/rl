@@ -1,6 +1,6 @@
 ---
 title: KITH x Adidas
-date: 2016-04-13 11:46:00 -04:00
-position: 3
+date: 2016-04-13 15:46:00 Z
+position: 5
 ---
 
