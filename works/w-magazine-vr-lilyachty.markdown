@@ -1,6 +1,6 @@
 ---
 title: W Magazine VR - LilYachty
-date: 2016-05-03 17:38:00 Z
+date: 2016-05-03 13:38:00 -04:00
 published: false
 position: 1
 Field name: 
